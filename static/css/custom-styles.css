@@ -1,0 +1,20 @@
+body {
+  background-color: #f8f9fc;
+}
+
+.container-fluid {
+  margin-bottom: 79px;
+}
+
+div.dataTables_wrapper {
+  margin-top: 4px;
+  margin-bottom: 6px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+footer.sticky-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
