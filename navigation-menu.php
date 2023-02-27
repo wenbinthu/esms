@@ -1,4 +1,5 @@
 <?php
+
 echo '<nav class="navbar navbar-expand-sm mb-5 bg-white navbar-light shadow">
           <a class="ml-2" href="#">
             <img src="static/images/logo-54x64.png" alt="LLAS logo" width="54" height="64">
@@ -50,4 +51,3 @@ echo '<nav class="navbar navbar-expand-sm mb-5 bg-white navbar-light shadow">
           </div>
         </nav>
 ';
-?>
